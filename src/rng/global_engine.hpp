@@ -1,0 +1,1 @@
+//// Created by thijs on 11/01/2023.//#ifndef INC_2D_DT_GLOBAL_ENGINE_HPP#define INC_2D_DT_GLOBAL_ENGINE_HPP#include <random>extern std::mt19937 global_engine;#endif //INC_2D_DT_GLOBAL_ENGINE_HPP

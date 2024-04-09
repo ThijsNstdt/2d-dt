@@ -1,0 +1,8 @@
+---Settings---
+    size : 500000
+    initialization : Growth
+    observable : VertexDegree @ ./simulations/results/vertexdegreeobserver/vertexdegrees500000_2022-10-10_20-38-37.txt
+    number_of_measurements : 100
+    ensemble : Growth
+---Summary---
+    total_time : 76.013767

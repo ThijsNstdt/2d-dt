@@ -1,0 +1,13 @@
+---Settings---
+    size : 100000
+    initialization : Growth
+    thermalization_sweeps : 200
+    ensemble : RestrictedDegenerate
+    observable : VertexDegree @ ./simulations/results/vertexdegreeobserver/vertexdegrees100000_2022-10-10_19-37-50.txt
+    number_of_measurements : 100
+    autocorrelation_sweeps : 5
+---Summary---
+    updates : 69500000
+    rejections : 11371783
+    rejection_rate : 0.163623
+    total_time : 93.929202

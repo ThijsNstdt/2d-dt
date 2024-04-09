@@ -1,0 +1,13 @@
+---Settings---
+    size : 10000
+    initialization : Growth
+    thermalization_sweeps : 50
+    ensemble : Simplicial
+    observable : DualHausdorffDimension @ ./simulations/results/hausdorffobserver/distanceprofile10000_2022-10-04_15-06-51.txt
+    number_of_measurements : 20
+    autocorrelation_sweeps : 5
+---Summary---
+    updates : 1450000
+    rejections : 366822
+    rejection_rate : 0.252981
+    total_time : 4.401505

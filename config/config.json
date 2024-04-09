@@ -1,0 +1,1 @@
+{    "observables" : {        "vertex_degree" : {}    },    "initialization" : {        "size" : 10000,        "shape" : "growth"    },    "updating" : {        "ensemble" : "maximally_degenerate",        "thermalization_sweeps" : 0    },    "measurement" : {        "measurements_per_sweep" : 5,        "number_of_measurements" : 3    }}

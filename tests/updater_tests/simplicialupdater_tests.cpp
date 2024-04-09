@@ -1,0 +1,1 @@
+//// Created by thijs on 22/11/2022.//#include <gtest/gtest.h>#include "src/updater/updater.hpp"#include "src/updater/simplicialupdater.hpp"#include "src/factory/growthfactory.hpp"#include "src/universe/universe.hpp"TEST(SimplicialUpdaterTests, VertexGraph) {    EXPECT_TRUE(true);}

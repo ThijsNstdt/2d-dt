@@ -1,0 +1,1 @@
+//// Created by thijs on 22/11/2022.//#include <gtest/gtest.h>#include "src/factory/growthfactory.hpp"TEST(GrowthFactoryTests, VertexHandling) {    EXPECT_TRUE(true);}
